@@ -2,8 +2,7 @@
 
 I'm currently working on a website for my HTML/CSS class and some personal projects to add to my resume.
 I'm familiar with Java, Python, HTML, CSS, and learning SQL. 
-Pronouns: He/Him
-Fun Fact: I want to eventually create a video game!
+My pronouns are He/Him. A fun fact is I want to eventually create a video game!
 
 <!--
 **KevinTC-star/KevinTC-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
